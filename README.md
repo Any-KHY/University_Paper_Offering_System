@@ -1,4 +1,4 @@
-#Year2 Assignment 1 - University Paper Offering System
+# Year2 Assignment 1 - University Paper Offering System
 
 
 You are asked to write a program in Java to simulate a University Paper Offering System
